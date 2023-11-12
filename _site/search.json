@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tristan",
+    "section": "",
+    "text": "This is a Quarto website. &lt;!DOCTYPE html&gt;\n\n\n\nMétéo Montpellier\n\n\n\n\n\n\n&lt;h1&gt;Météo Montpellier&lt;/h1&gt;\n&lt;table id=\"weather-table\"&gt;\n  &lt;!-- En-tête des colonnes du tableau --&gt;\n  &lt;thead&gt;\n    &lt;tr&gt;\n      &lt;th&gt;Date&lt;/th&gt;\n      &lt;th&gt;Conditions Météo&lt;/th&gt;\n      &lt;th&gt;Temp. Max (°C)&lt;/th&gt;\n      &lt;th&gt;Temp. Min (°C)&lt;/th&gt;\n      &lt;th&gt;Précip. (mm)&lt;/th&gt;\n      &lt;th&gt;Vent (km/h)&lt;/th&gt;\n    &lt;/tr&gt;\n  &lt;/thead&gt;\n  &lt;!-- Données météorologiques seront insérées ici --&gt;\n  &lt;tbody&gt;\n    &lt;!-- Lignes pour les données seront générées dynamiquement ici --&gt;\n  &lt;/tbody&gt;\n&lt;/table&gt;\n&lt;div class=\"hourly-details\" id=\"hourly-details\"&gt;\n  &lt;!-- Données horaires seront insérées ici --&gt;\n&lt;/div&gt;\n&lt;!-- Description de la méthodologie (peut être retirée si nécessaire) --&gt;\n&lt;div id=\"methodology-description\"&gt;\n  &lt;h2&gt;Méthodologie :&lt;/h2&gt;\n  &lt;p&gt;\n    Cette application présente la température maximale et minimale de chaque jour, le taux de précipitations et la moyenne de la vitesse du vent. \n    De plus, en cliquant sur une ligne du tableau, vous accéderez aux informations horaires pour certaines heures de la journée choisie. Si vous recliquez sur la même ligne, le \n    tableau d'origine réapparaîtra. Les données sont collectées à partir d'une URL API. Les mises à jour automatiques des données sont effectuées \n    quotidiennement à 6h30. Pour plus de détails veuillez consulter le README.\n  &lt;/p&gt;\n&lt;/div&gt;\n\n\n\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
